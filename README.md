@@ -1,22 +1,57 @@
-# Hi there, I'm Ayush Mishra 👋
-
-## 👨‍💻 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=THEAYUSHIMISHRA&theme=dark)
-
-**Streaks:** 100+ ✅
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-ffcc00?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-## 📫 How to reach me
-
-- Email: ayush.mishra@example.com
-- LinkedIn: [linkedin.com/in/ayushmishra](https://linkedin.com/in/ayushmishra)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 48px;
+            margin: 20px 0;
+            animation: fadeIn 1s;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        .social-icons {
+            margin: 20px 0;
+        }
+        .social-icons a {
+            margin: 0 10px;
+            text-decoration: none;
+            font-size: 24px;
+            transition: transform 0.2s;
+        }
+        .social-icons a:hover {
+            transform: scale(1.2);
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello, I'm THEAYUSHIMISHRA!</h1>
+    <p>Welcome to my profile. I'm a passionate developer who loves coding and building amazing projects.</p>
+    <div class="social-icons">
+        <a href="https://github.com/THEAYUSHIMISHRA">GitHub</a> |
+        <a href="https://twitter.com/yourusername">Twitter</a> |
+        <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
+    </div>
+    <div>
+        <h2>Projects</h2>
+        <p>Check out some of my work below:</p>
+        <ul>
+            <li><a href="link-to-project-1">Project 1</a></li>
+            <li><a href="link-to-project-2">Project 2</a></li>
+            <li><a href="link-to-project-3">Project 3</a></li>
+        </ul>
+    </div>
+</body>
+</html>
