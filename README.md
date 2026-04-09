@@ -1,106 +1,65 @@
-<body>
-    <h1>Hello, I'm THEAYUSHIMISHRA!</h1>
-    <p>Welcome to my profile. I'm a passionate developer who loves coding and building amazing projects.</p>
-    <div class="social-icons">
-        <a href="https://github.com/THEAYUSHIMISHRA">GitHub</a> |
-        <a href="https://twitter.com/yourusername">Twitter</a> |
-        <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
-    </div>
-    <div>
-        <h2>Projects</h2>
-        <p>Check out some of my work below:</p>
-        <ul>
-            <li><a href="link-to-project-1">Project 1</a></li>
-            <li><a href="link-to-project-2">Project 2</a></li>
-            <li><a href="link-to-project-3">Project 3</a></li>
-        </ul>
-    </div>
-</body>
-</html>
+# Hi there, I'm Ayushi 👋
 
-<h1 align="center">Hi 👋, I'm Ayushi Mishra</h1>
-<h3 align="center">🚀 Passionate Developer | AI • ML • DL | Full Stack Enthusiast</h3>
+Welcome to my GitHub profile!  
+I’m passionate about **competitive programming**, **problem-solving**, and building efficient solutions with clean code.
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Currently focusing on **AI, Machine Learning & Deep Learning**
-- 🌱 Learning and building projects using **React, Django & Data Science**
-- 💡 Interested in **real-world problem solving using AI**
-- 🎯 Goal: Become a strong **AI Engineer + Full Stack Developer**
-- ⚡ Fun fact: I love building projects & contributing to open source
+## 🚀 Tech Stack
+
+### Programming Languages
+- C++
+- Java
+- Python
+
+### Frontend Development
+- HTML5, CSS3
+- JavaScript (ES6+)
+- React.js
+- TailwindCSS / Bootstrap
+
+### Backend Development
+- Node.js
+- Express.js
+- REST APIs
+- Database: MySQL, MongoDB
+
+### AI / Machine Learning
+- Python (NumPy, Pandas, Scikit-learn)
+- TensorFlow / PyTorch
+- Natural Language Processing (NLP)
+- Computer Vision basics
+
+### IDEs & Tools
+- VS Code
+- IntelliJ IDEA
+- PyCharm
+- Git & GitHub
+- Postman
 
 ---
 
-## 🔥 GitHub Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/THEAYUSHIMISHRA/THEAYUSHIMISHRA/blob/output/snake.svg)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=THEAYUSHIMISHRA&show_icons=true&theme=radical)
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,django" />
-</p>
-
-### 🧠 AI/ML Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### 🧰 Tools & IDEs
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
-</p>
-
-- 📓 Jupyter Notebook  
-- ☁️ Google Colab  
+## 🌱 Current Focus
+- Enhancing algorithmic problem-solving skills  
+- Exploring advanced AI/ML techniques  
+- Building scalable full-stack applications  
 
 ---
 
-## 🌟 Open Source Contributions
-- 🎯 Active contributor in **Hacktoberfest**
-- 🕹️ Built & contributed to **Arcade Games Projects**
-- 🤝 Love collaborating on innovative projects
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+- [Portfolio](https://YOUR-PORTFOLIO.com)  
+- [Email](mailto:YOUR-EMAIL@example.com)  
 
 ---
-
-## 🚀 Projects (Add Your Best Ones Here)
-- 🔹 AI/ML Project (Add link)
-- 🔹 React + Django Project (Add link)
-- 🔹 Data Science Project (Add link)
-
----
-
-## 📫 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
+⭐️ From [Ayushi](https://github.com/Ayushi)
