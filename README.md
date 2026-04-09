@@ -1,41 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-            color: #333;
-            margin: 0;
-            padding: 20px;
-            text-align: center;
-        }
-        h1 {
-            font-size: 48px;
-            margin: 20px 0;
-            animation: fadeIn 1s;
-        }
-        @keyframes fadeIn {
-            from { opacity: 0; }
-            to { opacity: 1; }
-        }
-        .social-icons {
-            margin: 20px 0;
-        }
-        .social-icons a {
-            margin: 0 10px;
-            text-decoration: none;
-            font-size: 24px;
-            transition: transform 0.2s;
-        }
-        .social-icons a:hover {
-            transform: scale(1.2);
-        }
-    </style>
-</head>
 <body>
     <h1>Hello, I'm THEAYUSHIMISHRA!</h1>
     <p>Welcome to my profile. I'm a passionate developer who loves coding and building amazing projects.</p>
@@ -56,7 +18,7 @@
 </body>
 </html>
 
-<h1 align="center">Hi 👋, I'm Ashish Shukla</h1>
+<h1 align="center">Hi 👋, I'm Ayushi Mishra</h1>
 <h3 align="center">🚀 Passionate Developer | AI • ML • DL | Full Stack Enthusiast</h3>
 
 ---
@@ -142,5 +104,3 @@
 </p>
 
 ---
-
-⭐️ From Ashish Shukla | Keep Building 🚀
