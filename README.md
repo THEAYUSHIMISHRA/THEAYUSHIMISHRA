@@ -40,7 +40,7 @@ I’m passionate about **competitive programming**, **problem-solving**, and bui
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/THEAYUSHIMISHRA/THEAYUSHIMISHRA/blob/output/snake.svg)
+![Snake animation](https://github.com/THEAYUSHIMISHRA/THEAYUSHIMISHRA/blob/output/snake.yml)
 
 ---
 
