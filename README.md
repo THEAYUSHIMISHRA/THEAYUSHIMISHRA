@@ -55,3 +55,92 @@
     </div>
 </body>
 </html>
+
+<h1 align="center">Hi 👋, I'm Ashish Shukla</h1>
+<h3 align="center">🚀 Passionate Developer | AI • ML • DL | Full Stack Enthusiast</h3>
+
+---
+
+## 👨‍💻 About Me
+- 🔭 Currently focusing on **AI, Machine Learning & Deep Learning**
+- 🌱 Learning and building projects using **React, Django & Data Science**
+- 💡 Interested in **real-world problem solving using AI**
+- 🎯 Goal: Become a strong **AI Engineer + Full Stack Developer**
+- ⚡ Fun fact: I love building projects & contributing to open source
+
+---
+
+## 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,django" />
+</p>
+
+### 🧠 AI/ML Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🧰 Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
+</p>
+
+- 📓 Jupyter Notebook  
+- ☁️ Google Colab  
+
+---
+
+## 🌟 Open Source Contributions
+- 🎯 Active contributor in **Hacktoberfest**
+- 🕹️ Built & contributed to **Arcade Games Projects**
+- 🤝 Love collaborating on innovative projects
+
+---
+
+## 🚀 Projects (Add Your Best Ones Here)
+- 🔹 AI/ML Project (Add link)
+- 🔹 React + Django Project (Add link)
+- 🔹 Data Science Project (Add link)
+
+---
+
+## 📫 Connect With Me
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+⭐️ From Ashish Shukla | Keep Building 🚀
