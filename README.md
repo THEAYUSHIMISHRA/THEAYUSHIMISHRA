@@ -18,11 +18,10 @@ I’m passionate about **competitive programming**, **problem-solving**, and bui
 - React.js
 - TailwindCSS / Bootstrap
 
-### Backend Development
-- Node.js
-- Express.js
-- REST APIs
-- Database: MySQL, MongoDB
+### Database
+- MySQL
+- MongoDB
+- Oracle
 
 ### AI / Machine Learning
 - Python (NumPy, Pandas, Scikit-learn)
@@ -32,10 +31,9 @@ I’m passionate about **competitive programming**, **problem-solving**, and bui
 
 ### IDEs & Tools
 - VS Code
-- IntelliJ IDEA
+- Google Colab
 - PyCharm
 - Git & GitHub
-- Postman
 
 ---
 
