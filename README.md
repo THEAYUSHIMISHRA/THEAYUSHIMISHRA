@@ -37,11 +37,6 @@ I’m passionate about **competitive programming**, **problem-solving**, and bui
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/THEAYUSHIMISHRA/THEAYUSHIMISHRA/blob/output/snake.svg)
-
----
-
 ## 📊 GitHub Stats
 ![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=THEAYUSHIMISHRA&show_icons=true&theme=radical)
 
